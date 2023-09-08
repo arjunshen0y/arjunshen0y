@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arjun</h1>
-<h3 align="center">A Software Engineer from India</h3>
+<h3 align="center">A Software Engineer from India who is interested in AI, Full-Stack Development and Data Engineering.</h3>
 
 - 🌱 I’m currently learning **React.js**
 
