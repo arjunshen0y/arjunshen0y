@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arjun</h1>
-<h3 align="center">software engineer/aspiring freelance dev/interested in remote work</h3>
+<h3 align="center">software engineer/data engineer/aspiring freelance dev/interested in remote work</h3>
 
 - 🔭 I’m currently working on [My Portfolio Website](arjunshenoy.vercel.app)
 
