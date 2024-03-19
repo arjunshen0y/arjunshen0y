@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arjun</h1>
-<h3 align="center">software engineer/data engineer/aspiring freelance dev/interested in remote work</h3>
+<h3 align="center">Data Engineer</h3>
 
-- 🔭 I’m currently working on [My Portfolio Website](arjunshenoy.vercel.app)
+- 🔭 I’m currently working on **Data**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Apache Spark**
 
 - 📝 I regularly write articles on [arjunshenoy.vercel.app](arjunshenoy.vercel.app)
 
