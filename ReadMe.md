@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Arjun</h1>
-<h3 align="center">Engineer</h3>
+<h3 align="center">Computer Engineer</h3>
 
-- 🔭 I’m currently working on **Data**
+- 🔭 I’m currently working on **Blog,Projects**
 
-- 🌱 I’m currently learning **Apache Spark**
+- 🌱 I’m currently learning **React.js**
 
 - 📝 I regularly write articles on [arjunshenoy.vercel.app](arjunshenoy.vercel.app)
 
-- 💬 Ask me about **llm's**
+- 💬 Ask me about **Music**
 
 - 📫 How to reach me **arjunshenoy@gmail.com**
 
