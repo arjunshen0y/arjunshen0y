@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 📝 I regularly write articles on [arjunshenoy.vercel.app](arjunshenoy.vercel.app)
+- 📝 I regularly write articles on [neuralmanacle.vercel.app](arjunshenoy.vercel.app)
 
 - 💬 Ask me about **Music**
 
