@@ -1,37 +1,45 @@
-<h1 align="center">Hi 👋, I'm Arjun</h1>
-<h3 align="center">Front End Engineer</h3>
+<h1 style="font-family: Arial, sans-serif; text-align: center;">Namaste 🙏, I'm Arjun</h1> 
+<h4 style="font-family: Arial, sans-serif; text-align: center;">Pronouns - He/Him/His</h4> 
+<h4 style="font-family: Arial, sans-serif; text-align: center;">Remote(India)</h4>
+<h2 style="font-family: Arial, sans-serif; text-align: center;">Front End Developer</h2>
 
-- 🔭 I’m currently working on **Blog,Projects**
-
+- 🔭 I’m currently working on **Spotify Clone**
 - 🌱 I’m currently learning **React.js**
+- 📝 I regularly write articles on my <a href="neuralmanacle.vercel.app">Portfolio
+- 💬 Ask me about Anything
+- 📫 How to reach me arjunshenoy@gmail.com
 
-- 📝 I regularly write articles on [neuralmanacle.vercel.app](arjunshenoy.vercel.app)
+<h2 align = "left" style="font-family: Arial, sans-serif;">At Your Service</h2>
 
-- 💬 Ask me about **Music**
-
-- 📫 How to reach me **arjunshenoy@gmail.com**
-
-- :kissing_smiling_eyes: My LeetCode **https://leetcode.com/arjunshen0y/**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/arjunshenoy23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjunshenoy23" height="30" width="40" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,typescript,next,tailwind,figma" />
+  </a>
+</p>
+<br>
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunshen0y&layout=donut-vertical&theme=dark)](https://github.com/arjunshen0y/github-readme-stats)
+
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=arjunshen0y&show_icons=true&title_color=fff123&icon_color=7C1E59&text_color=8688E1&bg_color=1E203E&" alt="arjunshen0y" /></p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=arjunshen0y&theme=merko)](https://git.io/streak-stats)
+
+![](https://leetcard.jacoblin.cool/arjunshen0y?theme=nord&font=Be%20Vietnam%20Pro&ext=heatmap)
+
+<h1>Drop By For Anything</h1>
+<p>
+<a href="https://linkedin.com/in/arjunshenoy23" target="blank"><img align="left" src="https://skillicons.dev/icons?i=linkedin" alt="arjunshenoy23" height="60" width="60" /></a>
+</p>
+<p>
+<a href="https://twitter.com/neuralmanacle" target="blank"><img align="left" src="https://skillicons.dev/icons?i=twitter" alt="arjunshenoy23" height="60" width="60" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-                   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-                   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-                            <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-                                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-                             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-                <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-                       
-                        
+<br>
+<br>
+<br>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjunshen0y&" alt="arjunshen0y" /></p>
+<h1> My Gifts To The World as Sound!! Stream ON</h1>
+<p>
+<a href="https://open.spotify.com/artist/3YytkHPmRTI4ra9ksQZ8nw?si=y8dY8gIgT6SrqacWcLwhEQ" target="blank"><img align="left" src="https://skillicons.dev/icons?i=spotify-light" alt="arjunshenoy23" height="60" width="60" /></a>
+</p>
