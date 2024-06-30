@@ -3,7 +3,7 @@
 <h4 style="font-family: Arial, sans-serif; text-align: center;">Remote(India)</h4>
 <h2 style="font-family: Arial, sans-serif; text-align: center;">Software Engineer</h2>
 
-- 🔭 I’m currently working on **Netflix Landing Page Using HTML/CSS/Js**
+- 🔭 I’m currently working on **Github API Fetching**
 - 🌱 I’m currently learning **Javascript**
 - 📝 I regularly write articles on my <a href="neuralmanacle.vercel.app">Portfolio
 - 💬 Ask me about Anything
