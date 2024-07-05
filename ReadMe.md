@@ -1,7 +1,7 @@
 <h1 style="font-family: Arial, sans-serif; text-align: center;">Namaste 🙏, I'm Arjun</h1> 
 <h4 style="font-family: Arial, sans-serif; text-align: center;">Pronouns - He/Him/His</h4> 
 <h4 style="font-family: Arial, sans-serif; text-align: center;">Remote(India)</h4>
-<h2 style="font-family: Arial, sans-serif; text-align: center;">Frontend Engineer</h2>
+<h2 style="font-family: Arial, sans-serif; text-align: center;">Software Engineer</h2>
 
 - 🔭 I’m currently working on **Github API Fetching**
 - 🌱 I’m currently learning **React.js**
