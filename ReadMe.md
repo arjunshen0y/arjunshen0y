@@ -13,7 +13,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,next,astro,tailwind,python,django,fastapi,flask,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,fastapi,flask,figma" />
   </a>
 </p>
 <br>
@@ -41,5 +41,7 @@
 
 <h1> My Gifts To The World as Sound!! Stream ON</h1>
 <p>
-<a href="https://open.spotify.com/artist/3YytkHPmRTI4ra9ksQZ8nw?si=y8dY8gIgT6SrqacWcLwhEQ" target="blank"><img align="left" src="https://skillicons.dev/icons?i=spotify-light" alt="arjunshenoy23" height="60" width="60" /></a>
+<a href="https://open.spotify.com/artist/3YytkHPmRTI4ra9ksQZ8nw?si=y8dY8gIgT6SrqacWcLwhEQ" target="blank">
+  <img align="left" src="https://skillicons.dev/icons?i=spotify" alt="arjunshenoy23" height="60" width="60" />
+</a>
 </p>
