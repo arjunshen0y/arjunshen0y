@@ -4,7 +4,7 @@
 <h2 style="font-family: Arial, sans-serif; text-align: center;">Frontend Engineer</h2>
 
 - 🔭 I’m currently working on **Github API Fetching**
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React.js**
 - 📝 I regularly write articles on my <a href="neuralmanacle.vercel.app">Portfolio
 - 💬 Ask me about Anything
 - 📫 How to reach me arjunshenoy@gmail.com
@@ -13,7 +13,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,next,astro,tailwind,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,next,astro,tailwind,python,django,fastapi,flask,figma" />
   </a>
 </p>
 <br>
