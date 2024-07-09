@@ -18,7 +18,7 @@
 </p>
 <br>
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunshen0y&layout=donut-vertical&theme=dark)](https://github.com/arjunshen0y/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunshen0y&layout=donut-vertical&theme=light)](https://github.com/arjunshen0y/github-readme-stats)
 
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=arjunshen0y&show_icons=true&title_color=fff123&icon_color=7C1E59&text_color=8688E1&bg_color=1E203E&" alt="arjunshen0y" /></p>
 
